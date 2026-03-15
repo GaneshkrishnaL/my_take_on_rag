@@ -1,6 +1,6 @@
 # RAG vs Long Context: When You Actually Need What
 
-> Notes distilled from a deep-dive video on the RAG vs Long Context debate. Covers why both exist, when each wins, and the architectural trade-offs every AI engineer should know.
+
 
 ---
 
