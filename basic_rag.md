@@ -239,7 +239,7 @@ The function to get the relevant data is the <code>query_news</code> function. I
 
 
 ```python
-# GRADED CELL 
+ 
 
 def get_relevant_data(query: str, top_k: int = 5) -> list[dict]:
     """
@@ -360,7 +360,7 @@ Title: {news_k_title}, Description: {news_k_description}, Published at: {news_k_
 
 
 ```python
-# GRADED CELL
+
 
 def format_relevant_data(relevant_data):
     """
@@ -442,7 +442,6 @@ The next function is given to you. It will generate the final prompt, integratin
 
 
 ```python
-# EDITABLE CELL
 
 def generate_final_prompt(query, top_k=5, use_rag=True, prompt=None):
     """
@@ -655,4 +654,4 @@ display_widget(llm_call)
     HBox(children=(Output(layout=Layout(border_bottom='1px solid #ccc', border_left='1px solid #ccc', border_right…
 
 
-Congratulations! You created your first simple RAG system! Keep it up!
+
