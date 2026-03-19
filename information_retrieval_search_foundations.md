@@ -1,16 +1,9 @@
-# 📚 Module 2 — Information Retrieval & Search Foundations
-
-> **Course:** RAG (Retrieval-Augmented Generation)
-> **Status:** 🔄 In Progress
-> **Last Updated:** March 2026
-
----
 
 ## 🗺️ Module 2 Roadmap
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│                  MODULE 2 — SEARCH FOUNDATIONS                │
+│                   SEARCH FOUNDATIONS                │
 ├──────────────────┬───────────────────┬───────────────────────┤
 │ ✅ Metadata       │ ✅ Keyword Search  │ ⬜ (more coming)      │
 │    Filtering      │    & TF-IDF       │                       │
