@@ -12,6 +12,7 @@
 
 ---
 
+
 ## The Problem It Solves
 
 Every time you send a message to an LLM, it needs to remember everything said before so it doesn't lose context. That memory is called the **KV cache** (Key-Value cache), and it grows fast with long conversations or documents.
